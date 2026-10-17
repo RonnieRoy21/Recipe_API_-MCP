@@ -1,2 +1,3 @@
 .applier/
 .env
+__pycache__/
